@@ -4,6 +4,7 @@
 A Solidity smart contract project that demonstrates the factory pattern for creating and managing multiple storage contracts with different behaviors.
 
 ## Overview
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/a34d280d-e978-4b18-a30d-7f6a19071157" />
 
 Storage-Factory is an educational blockchain project that showcases:
 - **Factory Pattern**: The `StorageFactory` contract creates and manages instances of storage contracts
