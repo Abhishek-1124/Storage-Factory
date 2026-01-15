@@ -1,4 +1,5 @@
 # Storage-Factory
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/619b4b56-736b-4c78-af65-a760646b639f" />
 
 A Solidity smart contract project that demonstrates the factory pattern for creating and managing multiple storage contracts with different behaviors.
 
