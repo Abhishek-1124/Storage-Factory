@@ -1,0 +1,11 @@
+// SPDX-License-identifire: MIT
+pragma solidity 0.8.18;
+
+contract Cows {
+    constructor() {}
+
+}
+
+contract Birds {
+    constructor() {}
+}
