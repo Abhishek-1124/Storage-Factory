@@ -1,7 +1,7 @@
 # Storage-Factory
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/619b4b56-736b-4c78-af65-a760646b639f" />
 
-A Solidity smart contract project that demonstrates the factory pattern for creating and managing multiple storage contracts with different behaviors.
+A Solidity smart contract project that demonstrates the factory pattern for creating and managing multiple storage contracts with different behaviours.
 
 ## Overview
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/a34d280d-e978-4b18-a30d-7f6a19071157" />
@@ -14,13 +14,13 @@ Storage-Factory is an educational blockchain project that showcases:
 ## Contracts
 
 ### SimpleStorage
-The base storage contract that stores and retrieves a single favorite number.
+The base storage contract that stores and retrieves a single favourite number.
 
 **Features:**
-- Store a favorite number
+- Store a favourite number
 - Retrieve the stored number
-- Add people with their favorite numbers
-- Map names to favorite numbers
+- Add people with their favourite numbers
+- Map names to favourite numbers
 
 ### StorageFactory
 The factory contract that creates and manages multiple storage contract instances.
@@ -40,12 +40,12 @@ The factory contract that creates and manages multiple storage contract instance
 ### SquareStorage
 A variant of SimpleStorage that squares the input number before storing.
 
-**Behavior:** When storing a number `n`, it actually stores `n²`
+**Behaviour:** When storing a number `n`, it actually stores `n²`
 
 ### AddFiveStorage
 A variant of SimpleStorage that adds 5 to the input number before storing.
 
-**Behavior:** When storing a number `n`, it actually stores `n + 5`
+**Behaviour:** When storing a number `n`, it actually stores `n + 5`
 
 ## How It Works
 
