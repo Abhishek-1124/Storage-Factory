@@ -40,7 +40,7 @@ The factory contract that creates and manages multiple storage contract instance
 ### SquareStorage
 A variant of SimpleStorage that squares the input number before storing.
 
-** Behaviour: ** When storing a number `n`, it actually stores `n²`
+** Behaviour: ** When storing a number `n`, it actually stores `n².`
 
 ### AddFiveStorage
 A variant of SimpleStorage that adds 5 to the input number before storing.
